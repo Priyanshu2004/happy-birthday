@@ -1,11 +1,11 @@
 {
   "greeting": "Heyy",
   "name": "Shirin",
-  "greetingText": "",
+  "greetingText": "Couldn't crash your party, so I crashed your screen instead!",
   "wishText": "",
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Many many happy r...",
+  "textInChatBox": "Happy birthday to you!! Many many happy retur.....",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then I stopped.",
