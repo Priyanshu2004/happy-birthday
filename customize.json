@@ -1,8 +1,8 @@
 {
   "greeting": "Heyy",
   "name": "Shirin",
-  "greetingText": "Couldn't crash your party, so I crashed your screen instead!",
-  "wishText": "",
+  "greetingText": ":)",
+  "wishText": "You are so full of life that even death would find you alive. Stay like that always!",
   "imagePath": "img/shirin.jpg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Many many happy retur.....",
@@ -18,6 +18,6 @@
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
   "outroText": "You are and will forever be a cherished part of my life.",
-  "replayText": "So, please don't ever be a stranger",
+  "replayText": "Please, don't ever be a stranger",
   "outroSmiley": ":)"
 }
